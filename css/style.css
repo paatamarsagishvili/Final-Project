@@ -84,56 +84,56 @@
 	border-radius: 5%;
          width: 657px;
         height: 378px;
-	background-image: url(../img/red1.PNG) ;
+	background-image: url(../img/red1.png) ;
 	
 }
 .blocks:hover {
-	background-image: url(../img/red1-1.PNG);
+	background-image: url(../img/red1-1.png);
 }
 .blocks2{
 	border-radius: 5%;
 	   width: 657px;
         height: 378px;
-	background-image: url(../img/blue1.PNG);
+	background-image: url(../img/blue1.png);
 }
 .blocks2:hover{
-	background-image: url(../img/blue1-1.PNG);
+	background-image: url(../img/blue1-1.png);
 }
 .blocks3{
 	border-radius: 5%;
 	   width: 657px;
         height: 378px;
-	background-image: url(../img/red2.PNG);
+	background-image: url(../img/red2.png);
 }
 .blocks3:hover{
-	background-image: url(../img/red2-1.PNG);
+	background-image: url(../img/red2-1.png);
 }
 .blocks4{
 	border-radius: 5%;
 	    width: 657px;
         height: 378px;
-	background-image: url(../img/blue2.PNG);
+	background-image: url(../img/blue2.png);
 }
 .blocks4:hover{
-	background-image: url(../img/blue2-1.PNG);
+	background-image: url(../img/blue2-1.png);
 }
 .blocks5{
 	border-radius: 5%;
 	   width: 657px;
         height: 378px;
-	background-image: url(../img/red3.PNG);
+	background-image: url(../img/red3.png);
 }
 .blocks5:hover{
-	background-image: url(../img/red3-1.PNG);
+	background-image: url(../img/red3-1.png);
 }
 .blocks6{
 	border-radius: 5%;
 	   width: 657px;
         height: 378px;
-	background-image: url(../img/blue3.PNG);
+	background-image: url(../img/blue3.png);
 }
 .blocks6:hover{
-	background-image: url(../img/blue3-1.PNG);
+	background-image: url(../img/blue3-1.png);
 }
 .line2{
    width: 100%;
